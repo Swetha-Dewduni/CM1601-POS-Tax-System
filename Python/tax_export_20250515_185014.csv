@@ -1,0 +1,2 @@
+bill_no,item_code,sale_price,quantity,line_total,checksum
+BILL0001,001,550.0a,3,1650.0,23
